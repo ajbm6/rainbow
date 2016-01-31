@@ -1,0 +1,7 @@
+{
+  "name": "Sublime Text",
+  "slug": "sublime-text",
+  "files": {
+    "sublime/theme.twig": "{{theme}}.tmTheme"
+  }
+}

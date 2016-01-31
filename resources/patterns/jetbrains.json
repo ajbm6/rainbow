@@ -1,0 +1,7 @@
+{
+  "name": "JetBrains",
+  "slug": "jetbrains",
+  "files": {
+    "jetbrains/theme.twig": "{{theme}}.icls"
+  }
+}

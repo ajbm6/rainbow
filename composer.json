@@ -1,0 +1,20 @@
+{
+    "name": "daylerees/rainbow",
+    "description": "A collection of colour schemes for various platforms.",
+    "authors": [
+        {
+            "name": "Dayle Rees",
+            "email": "thepunkfan@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^3.0",
+        "twig/twig": "^1.23",
+        "ramsey/uuid": "^3.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rainbow\\": "src"
+        }
+    }
+}

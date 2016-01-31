@@ -1,0 +1,7 @@
+{
+  "name": "PrettyPrint CSS",
+  "slug": "prettyprint",
+  "files": {
+    "prettyprint/theme.twig": "{{theme}}.html"
+  }
+}

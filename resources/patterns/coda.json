@@ -1,0 +1,7 @@
+{
+  "name": "Coda 2",
+  "slug": "coda",
+  "files": {
+    "coda/theme.twig": "{{theme}}.sss"
+  }
+}
